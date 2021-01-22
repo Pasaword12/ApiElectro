@@ -1,0 +1,24 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+django = "*"
+djangorestframework = "*"
+markdown = "*"
+django-filter = "*"
+pymysql = "*"
+pillow = "*"
+djangorestframework-simplejwt = "*"
+drf-yasg = "*"
+django-cors-headers = "*"
+python-docx = "*"
+docxtpl = "*"
+django-auto-prefetching = "*"
+django-querycount = "*"
+
+[requires]
+python_version = "3.8"
